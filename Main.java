@@ -144,7 +144,7 @@ public class Main {
               System.out.println("Book found!");
               System.out.println("Title: " + foundBook.getTitle());
               System.out.println("Author: " + foundBook.getAuthor());
-              System.out.println("Price: $" + foundBook.getPrice());
+              System.out.println("Price: ₹" + foundBook.getPrice());
             } else {
               System.out.println("Book not found!");
             }
