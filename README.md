@@ -7,8 +7,8 @@ To run this code locally:
 
 `cd online-bookstore-management-system`
 
-`javac main.java`
+`javac Main.java`
 
-`java main`
+`java Main`
 
 Feel free to suggest any kind of improvemts.
